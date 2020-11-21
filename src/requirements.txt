@@ -1,0 +1,7 @@
+graphene_mongo
+flask
+flask_graphql
+graphene
+gunicorn
+pandas
+flask_mongoengine
