@@ -8,9 +8,9 @@ This small project was inspired by
 https://github.com/Covid-19-Response-Greece/covid19-greece-api
 
 # How to use.
- *Do docker-compose up, it should start intialize the library and start the application
- *Visit http://127.0.0.1:5000/graphql
- *Do for example :
+ * Do docker-compose up, it should start intialize the library and start the application
+ * Visit http://127.0.0.1:5000/graphql
+ * Do for example :
      'query{
            getAllCountriesCovidInfo{
              country
