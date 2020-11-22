@@ -1,6 +1,7 @@
 # covid-graphql
 A simple Graphql API that fetches covid-19 related data.
-References:
+
+### References:
 
 * https://github.com/Covid-19-Response-Greece/covid19-greece-api
 * https://github.com/pomber/covid19
