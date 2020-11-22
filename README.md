@@ -1,11 +1,13 @@
 # covid-graphql
-A simple api that fetches the covid19-data for the countries that are avaliable.
-The data curently include the dataset that provided https://coronavirus.jhu.edu/map.html.
+A simple API that fetches the covid19-data for the countries that are avaliable.
+The data curently include the datasets provided by https://coronavirus.jhu.edu/map.html 
+and NPHO.
 (it's not the latest updated dataset).
 
 
 This small project was inspired by 
 https://github.com/Covid-19-Response-Greece/covid19-greece-api
+and both datasets have been fetched form there.
 
 # How to use.
  * Do docker-compose up, it should start intialize the library and start the application
