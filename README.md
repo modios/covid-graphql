@@ -22,12 +22,9 @@ https://github.com/Covid-19-Response-Greece/covid19-greece-api
 ### Todo
 - [x] Fetch data for single country by providing the name as input.
 
-- [ ] Investigate using https://github.com/graphql-python/graphql-core in order to be GraphQL-core 3 compatible.
-      graphene is still in core 2 
-
 - [ ] Add mutations.
 
-- [ ] Add Greek covid19 data.
+- [ ] Add NPHO (EODY) Greek covid19 data.
 
 - [ ] Update data daily.
 
