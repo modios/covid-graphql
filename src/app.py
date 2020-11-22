@@ -12,7 +12,7 @@ mongoHost = os.environ.get('DB_HOST',"127.0.0.1")
 #mongoPassword = os.environ.get('DB_PASSWORD',None),
 #mongoDatabase  =  os.environ.get('DB_Name',"covid19"),
 mongoPort  =  int(os.environ.get('DB_Port','27017'))
-connect('covid19Hopkings', host=mongoHost, port=mongoPort)
+connect('covid-19-db', host=mongoHost, port=mongoPort)
 
 app = Flask(__name__)
 app.debug = True
