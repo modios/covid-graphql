@@ -6,8 +6,8 @@ and NPHO.
 
 
 This small project was inspired by 
+https://github.com/pomber/covid19
 https://github.com/Covid-19-Response-Greece/covid19-greece-api
-and both datasets have been fetched form there.
 
 # How to use.
  * Do docker-compose up, it should start intialize the library and start the application
