@@ -4,10 +4,12 @@ The data curently include the datasets provided by https://coronavirus.jhu.edu/m
 and NPHO.
 (it's not the latest updated dataset).
 
+References:
 
-This small project was inspired by 
-* https://github.com/pomber/covid19
 * https://github.com/Covid-19-Response-Greece/covid19-greece-api
+* https://github.com/pomber/covid19
+* https://github.com/CSSEGISandData/COVID-19
+
 
 # How to use.
  * Do docker-compose up, it should start intialize the library and start the application
@@ -28,6 +30,6 @@ This small project was inspired by
 
 - [ ] Add google mobility data https://www.google.com/covid19/mobility/
 
-- [ ] Add mutations.
-
 - [ ] Update data daily automaticaly.
+
+- [ ] Add mutations.
