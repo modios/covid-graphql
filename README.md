@@ -24,7 +24,7 @@ https://github.com/Covid-19-Response-Greece/covid19-greece-api
 
 - [ ] Add mutations.
 
-- [ ] Add Greek covid19 data.
+- [ ] Add NPHO (EODY) Greek covid19 data.
 
 - [ ] Update data daily.
 
