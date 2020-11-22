@@ -1,10 +1,11 @@
 # covid-graphql
-A simple api that fetches the covid19-data for the countries that are avaliable.
-The data curently include the dataset that provided https://coronavirus.jhu.edu/map.html.
+A simple API that fetches the covid19-data for the countries that are avaliable.
+The data curently include the dataset that provided https://coronavirus.jhu.edu/map.html 
+and the data from NPHO.
 (it's not the latest updated dataset).
 
 
-This small project was inspired by 
+This small project was inspired by and both datasets have been fetched form there,
 https://github.com/Covid-19-Response-Greece/covid19-greece-api
 
 # How to use.
