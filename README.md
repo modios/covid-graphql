@@ -24,10 +24,10 @@ and both datasets have been fetched form there.
 ### Todo
 - [x] Fetch data for single country by providing the name as input.
 
-- [ ] Add mutations.
-
 - [ ] Add NPHO (EODY) Greek covid19 data.
 
 - [ ] Add google mobility data https://www.google.com/covid19/mobility/
+
+- [ ] Add mutations.
 
 - [ ] Update data daily automaticaly.
