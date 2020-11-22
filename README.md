@@ -27,6 +27,6 @@ A simple Graphql API that fetches covid-19 related data.
 
 - [ ] Add google mobility data https://www.google.com/covid19/mobility/
 
-- [ ] Update data daily automaticaly.
+- [ ] Update data daily automatically.
 
 - [ ] Add mutations.
