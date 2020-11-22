@@ -1,5 +1,5 @@
 # covid-graphql
-A simple Graphql API that fetches covid-19 related data.
+Experimenting with simple Graphql API that fetches covid-19 related data.
 
 ### References:
 
