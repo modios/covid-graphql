@@ -9,7 +9,7 @@ Experimenting with simple Graphql API that fetches covid-19 related data.
 
 
 # How to use.
- * Do docker-compose up, it should start intialize the library and start the application
+ * Do docker-compose up, it should start intialize the database and start the application
  * Visit http://127.0.0.1:5000/graphql
  * Do for example :
      'query{
