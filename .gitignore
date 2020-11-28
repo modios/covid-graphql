@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/data/all_countries/Google/Global_Mobility_Report.csv
