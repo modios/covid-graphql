@@ -25,8 +25,6 @@ Experimenting with a simple Graphql API that fetches covid-19 related data.
 
 - [ ] Add NPHO (EODY) Greek covid19 data.
 
-- [ ] Add google mobility data https://www.google.com/covid19/mobility/
-
 - [ ] Update data daily automatically.
 
 - [ ] Add mutations.
