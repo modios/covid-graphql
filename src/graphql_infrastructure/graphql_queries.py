@@ -1,7 +1,7 @@
 from graphene import ObjectType,Field,List, String
-from graphql_infrastructure.graphql_types import CovidInfoByCountryType, CovidInfoType,NphoIntensiveCareCasesType, NphoTotalTestsType, NphoAgeDataType
+from graphql_infrastructure.graphql_types import CovidInfoByCountryType, CovidInfoType,NphoIntensiveCareCasesType, NphoTotalTestsType, NphoAgeDataType, NphoGenderAgeType
 from database.models import CovidInfoByCountry;
-from database.models import NphoIntensiveCareCases, NphoTotalTests, NphoAgeData
+from database.models import NphoIntensiveCareCases, NphoTotalTests, NphoAgeData, NphoGenderAge
    
 class GetAllCountriesQuery(ObjectType):
      get_all_countries_covid_info = Field(List(CovidInfoByCountryType))
@@ -23,7 +23,8 @@ class Npho(ObjectType):
      intes_care_cases = List(NphoIntensiveCareCasesType)
      total_tests = List(NphoTotalTestsType)
      npho_age_data = List(NphoAgeDataType)
-     
+     npho_gender_age = List(NphoGenderAgeType)
+
      def resolve_intes_care_cases(root, info):
           return  list(map(lambda x: NphoIntensiveCareCasesType.model_to_type(x), NphoIntensiveCareCases.objects.all()))
 
@@ -32,6 +33,9 @@ class Npho(ObjectType):
      
      def resolve_npho_age_data(root, info):
           return  list(map(lambda x: NphoAgeDataType.model_to_type(x), NphoAgeData.objects.all()))
+
+     def resolve_npho_gender_age(root, info):
+          return  list(map(lambda x: NphoGenderAgeType.model_to_type(x), NphoGenderAge.objects.all()))
 
 class RootQuery(ObjectType):
      JohnsHopkinsCSSE = Field(JohnsHopkinsCSSE)

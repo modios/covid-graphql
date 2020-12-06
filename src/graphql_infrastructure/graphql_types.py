@@ -2,7 +2,7 @@ from graphene import ObjectType,Field
 from database.models import CovidInfoByCountry
 from database.models import CovidInfo
 import graphene
-from database.models import NphoIntensiveCareCases, NphoTotalTests, NphoAgeData, NphoGenderAge, NphoTotalForAgeGroups,NphoAgeGroups
+from database.models import NphoIntensiveCareCases, NphoTotalTests, NphoAgeData, NphoGenderAge, NphoTotalForAgeGroups, NphoAgeGroups, NphoGenderAge
 
 class CovidInfoType(ObjectType):
     date = graphene.String()
@@ -86,3 +86,19 @@ class NphoAgeDataType(ObjectType):
             average_death_age = nphoAgeData.average_death_age,
             total_age_groups = NphoTotalForAgeGroupsType.model_to_type(nphoAgeData.total_age_groups),
             updated = nphoAgeData.update)
+
+class NphoGenderAgeType(ObjectType):
+    total_females_percentage = graphene.Float()
+    total_males_percentage = graphene.Float()
+    total_females = graphene.Field(NphoTotalForAgeGroupsType)
+    total_males = graphene.Field(NphoTotalForAgeGroupsType)
+    updated =  graphene.String()
+
+    @staticmethod
+    def model_to_type(nphoGenderAge : NphoGenderAge):
+       return NphoGenderAgeType(
+            total_females_percentage = nphoGenderAge.total_females_percentage,
+            total_males_percentage = nphoGenderAge.total_females_percentage,
+            total_females =  NphoTotalForAgeGroupsType.model_to_type(nphoGenderAge.total_females),
+            total_males =  NphoTotalForAgeGroupsType.model_to_type(nphoGenderAge.total_males),
+            updated =  nphoGenderAge.updated)
