@@ -21,6 +21,10 @@ app.add_url_rule(
     "/graphql", view_func=GraphQLView.as_view("graphql", schema=schema, graphiql=True)
 )
 
+@app.route('/', methods=['GET'])
+def home():
+    return "<h1>Covid-19 GraphQL API.</h1><p>Visit /graphql.</p> <p>Example : query{ Npho{ intesCareCases{ date intensiveCare }}} <p>"
+
 if __name__ == "__main__":
     init_db()
     Host = os.environ.get('FLASK_RUN_HOST', '0.0.0.0')
