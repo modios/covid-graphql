@@ -12,12 +12,13 @@ Experimenting with a simple Graphql API that fetches covid-19 related data.
  * Do docker-compose up, it should intialize the database and start the application
  * Visit http://127.0.0.1:5000/graphql
  * Do for example :
+ 
  ```
-     'query{
+     query{
            getAllCountriesCovidInfo{
              country
              }
-           }'
+           }
 ```
 
  Should return the list of countries for which we have data about the pandemic.
