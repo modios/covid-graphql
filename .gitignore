@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 src/data/all_countries/Google/Global_Mobility_Report.csv
+src/data/all_countries/JohnsHopkinsCSSE/timeseries_per_country.json
+src/data/greece/NPHO/age_data.json
+src/data/greece/NPHO/gender_age_data.json
+src/data/greece/NPHO/intensive_care_cases.json
+src/data/greece/NPHO/tests.json
