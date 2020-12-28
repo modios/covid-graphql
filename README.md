@@ -29,5 +29,3 @@ Experimenting with a simple Graphql API that fetches covid-19 related data.
 - [x] Add NPHO (EODY) Greek Covid-19 data.
 
 - [x] Update data automatically.
-
-- [ ] Move mongoengine implemation to seperate repository and provide ability to load directly from json files.
