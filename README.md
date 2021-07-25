@@ -24,8 +24,6 @@ Experimenting with a simple Graphql API that fetches covid-19 related data.
       }
 }
 ```
-
- Should return the list of countries for which we have data about the pandemic.
   
 ### Todo
 - [x] Fetch data for single country by providing the name as input.
