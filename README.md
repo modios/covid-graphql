@@ -9,7 +9,7 @@ Experimenting with a simple Graphql API that fetches covid-19 related data.
 
 
 # How to use.
- * Probaby the easiest way to get the application running is to run
+ * Probaby the easiest way to get the application up and running is to run
  docker-compose up, it should intialize the database and start the application.
  * Visit http://127.0.0.1:5000/graphql
  * Then you can try to fetch the avaliable data, for example the cases in ICUs for all the avaliable dates :
