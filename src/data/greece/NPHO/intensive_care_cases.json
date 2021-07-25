@@ -1187,6 +1187,870 @@
         {
             "date": "2020-12-18",
             "intensive_care": 527
+        },
+        {
+            "date": "2020-12-19",
+            "intensive_care": 534
+        },
+        {
+            "date": "2020-12-20",
+            "intensive_care": 515
+        },
+        {
+            "date": "2020-12-21",
+            "intensive_care": 505
+        },
+        {
+            "date": "2020-12-22",
+            "intensive_care": 491
+        },
+        {
+            "date": "2020-12-23",
+            "intensive_care": 495
+        },
+        {
+            "date": "2020-12-24",
+            "intensive_care": 476
+        },
+        {
+            "date": "2020-12-25",
+            "intensive_care": 470
+        },
+        {
+            "date": "2020-12-26",
+            "intensive_care": 473
+        },
+        {
+            "date": "2020-12-27",
+            "intensive_care": 469
+        },
+        {
+            "date": "2020-12-28",
+            "intensive_care": 467
+        },
+        {
+            "date": "2020-12-29",
+            "intensive_care": 458
+        },
+        {
+            "date": "2020-12-30",
+            "intensive_care": 443
+        },
+        {
+            "date": "2020-12-31",
+            "intensive_care": 438
+        },
+        {
+            "date": "2021-01-01",
+            "intensive_care": 429
+        },
+        {
+            "date": "2021-01-02",
+            "intensive_care": 431
+        },
+        {
+            "date": "2021-01-03",
+            "intensive_care": 421
+        },
+        {
+            "date": "2021-01-04",
+            "intensive_care": 407
+        },
+        {
+            "date": "2021-01-05",
+            "intensive_care": 405
+        },
+        {
+            "date": "2021-01-06",
+            "intensive_care": 399
+        },
+        {
+            "date": "2021-01-07",
+            "intensive_care": 391
+        },
+        {
+            "date": "2021-01-08",
+            "intensive_care": 386
+        },
+        {
+            "date": "2021-01-09",
+            "intensive_care": 362
+        },
+        {
+            "date": "2021-01-10",
+            "intensive_care": 353
+        },
+        {
+            "date": "2021-01-11",
+            "intensive_care": 350
+        },
+        {
+            "date": "2021-01-12",
+            "intensive_care": 337
+        },
+        {
+            "date": "2021-01-13",
+            "intensive_care": 340
+        },
+        {
+            "date": "2021-01-14",
+            "intensive_care": 328
+        },
+        {
+            "date": "2021-01-15",
+            "intensive_care": 319
+        },
+        {
+            "date": "2021-01-16",
+            "intensive_care": 323
+        },
+        {
+            "date": "2021-01-17",
+            "intensive_care": 320
+        },
+        {
+            "date": "2021-01-18",
+            "intensive_care": 322
+        },
+        {
+            "date": "2021-01-19",
+            "intensive_care": 320
+        },
+        {
+            "date": "2021-01-20",
+            "intensive_care": 300
+        },
+        {
+            "date": "2021-01-21",
+            "intensive_care": 293
+        },
+        {
+            "date": "2021-01-22",
+            "intensive_care": 288
+        },
+        {
+            "date": "2021-01-23",
+            "intensive_care": 292
+        },
+        {
+            "date": "2021-01-24",
+            "intensive_care": 288
+        },
+        {
+            "date": "2021-01-25",
+            "intensive_care": 286
+        },
+        {
+            "date": "2021-01-26",
+            "intensive_care": 283
+        },
+        {
+            "date": "2021-01-27",
+            "intensive_care": 274
+        },
+        {
+            "date": "2021-01-28",
+            "intensive_care": 268
+        },
+        {
+            "date": "2021-01-29",
+            "intensive_care": 260
+        },
+        {
+            "date": "2021-01-30",
+            "intensive_care": 257
+        },
+        {
+            "date": "2021-01-31",
+            "intensive_care": 255
+        },
+        {
+            "date": "2021-02-01",
+            "intensive_care": 248
+        },
+        {
+            "date": "2021-02-02",
+            "intensive_care": 244
+        },
+        {
+            "date": "2021-02-03",
+            "intensive_care": 246
+        },
+        {
+            "date": "2021-02-04",
+            "intensive_care": 249
+        },
+        {
+            "date": "2021-02-05",
+            "intensive_care": 246
+        },
+        {
+            "date": "2021-02-06",
+            "intensive_care": 249
+        },
+        {
+            "date": "2021-02-07",
+            "intensive_care": 262
+        },
+        {
+            "date": "2021-02-08",
+            "intensive_care": 276
+        },
+        {
+            "date": "2021-02-09",
+            "intensive_care": 277
+        },
+        {
+            "date": "2021-02-10",
+            "intensive_care": 284
+        },
+        {
+            "date": "2021-02-11",
+            "intensive_care": 281
+        },
+        {
+            "date": "2021-02-12",
+            "intensive_care": 293
+        },
+        {
+            "date": "2021-02-13",
+            "intensive_care": 300
+        },
+        {
+            "date": "2021-02-14",
+            "intensive_care": 301
+        },
+        {
+            "date": "2021-02-15",
+            "intensive_care": 299
+        },
+        {
+            "date": "2021-02-16",
+            "intensive_care": 309
+        },
+        {
+            "date": "2021-02-17",
+            "intensive_care": 313
+        },
+        {
+            "date": "2021-02-18",
+            "intensive_care": 320
+        },
+        {
+            "date": "2021-02-19",
+            "intensive_care": 325
+        },
+        {
+            "date": "2021-02-20",
+            "intensive_care": 325
+        },
+        {
+            "date": "2021-02-21",
+            "intensive_care": 326
+        },
+        {
+            "date": "2021-02-22",
+            "intensive_care": 346
+        },
+        {
+            "date": "2021-02-23",
+            "intensive_care": 357
+        },
+        {
+            "date": "2021-02-24",
+            "intensive_care": 357
+        },
+        {
+            "date": "2021-02-25",
+            "intensive_care": 367
+        },
+        {
+            "date": "2021-02-26",
+            "intensive_care": 371
+        },
+        {
+            "date": "2021-02-27",
+            "intensive_care": 379
+        },
+        {
+            "date": "2021-02-28",
+            "intensive_care": 391
+        },
+        {
+            "date": "2021-03-01",
+            "intensive_care": 406
+        },
+        {
+            "date": "2021-03-02",
+            "intensive_care": 422
+        },
+        {
+            "date": "2021-03-03",
+            "intensive_care": 431
+        },
+        {
+            "date": "2021-03-04",
+            "intensive_care": 449
+        },
+        {
+            "date": "2021-03-05",
+            "intensive_care": 451
+        },
+        {
+            "date": "2021-03-06",
+            "intensive_care": 452
+        },
+        {
+            "date": "2021-03-07",
+            "intensive_care": 466
+        },
+        {
+            "date": "2021-03-08",
+            "intensive_care": 477
+        },
+        {
+            "date": "2021-03-09",
+            "intensive_care": 484
+        },
+        {
+            "date": "2021-03-10",
+            "intensive_care": 479
+        },
+        {
+            "date": "2021-03-11",
+            "intensive_care": 506
+        },
+        {
+            "date": "2021-03-12",
+            "intensive_care": 521
+        },
+        {
+            "date": "2021-03-13",
+            "intensive_care": 545
+        },
+        {
+            "date": "2021-03-14",
+            "intensive_care": 564
+        },
+        {
+            "date": "2021-03-15",
+            "intensive_care": 564
+        },
+        {
+            "date": "2021-03-16",
+            "intensive_care": 605
+        },
+        {
+            "date": "2021-03-17",
+            "intensive_care": 630
+        },
+        {
+            "date": "2021-03-18",
+            "intensive_care": 645
+        },
+        {
+            "date": "2021-03-19",
+            "intensive_care": 649
+        },
+        {
+            "date": "2021-03-20",
+            "intensive_care": 672
+        },
+        {
+            "date": "2021-03-21",
+            "intensive_care": 674
+        },
+        {
+            "date": "2021-03-22",
+            "intensive_care": 681
+        },
+        {
+            "date": "2021-03-23",
+            "intensive_care": 699
+        },
+        {
+            "date": "2021-03-24",
+            "intensive_care": 699
+        },
+        {
+            "date": "2021-03-25",
+            "intensive_care": 706
+        },
+        {
+            "date": "2021-03-26",
+            "intensive_care": 707
+        },
+        {
+            "date": "2021-03-27",
+            "intensive_care": 728
+        },
+        {
+            "date": "2021-03-28",
+            "intensive_care": 735
+        },
+        {
+            "date": "2021-03-29",
+            "intensive_care": 738
+        },
+        {
+            "date": "2021-03-30",
+            "intensive_care": 741
+        },
+        {
+            "date": "2021-03-31",
+            "intensive_care": 739
+        },
+        {
+            "date": "2021-04-01",
+            "intensive_care": 755
+        },
+        {
+            "date": "2021-04-02",
+            "intensive_care": 753
+        },
+        {
+            "date": "2021-04-03",
+            "intensive_care": 755
+        },
+        {
+            "date": "2021-04-04",
+            "intensive_care": 749
+        },
+        {
+            "date": "2021-04-05",
+            "intensive_care": 759
+        },
+        {
+            "date": "2021-04-06",
+            "intensive_care": 751
+        },
+        {
+            "date": "2021-04-07",
+            "intensive_care": 749
+        },
+        {
+            "date": "2021-04-08",
+            "intensive_care": 776
+        },
+        {
+            "date": "2021-04-09",
+            "intensive_care": 790
+        },
+        {
+            "date": "2021-04-10",
+            "intensive_care": 781
+        },
+        {
+            "date": "2021-04-11",
+            "intensive_care": 780
+        },
+        {
+            "date": "2021-04-12",
+            "intensive_care": 781
+        },
+        {
+            "date": "2021-04-13",
+            "intensive_care": 802
+        },
+        {
+            "date": "2021-04-14",
+            "intensive_care": 809
+        },
+        {
+            "date": "2021-04-15",
+            "intensive_care": 819
+        },
+        {
+            "date": "2021-04-16",
+            "intensive_care": 824
+        },
+        {
+            "date": "2021-04-17",
+            "intensive_care": 837
+        },
+        {
+            "date": "2021-04-18",
+            "intensive_care": 841
+        },
+        {
+            "date": "2021-04-19",
+            "intensive_care": 847
+        },
+        {
+            "date": "2021-04-20",
+            "intensive_care": 847
+        },
+        {
+            "date": "2021-04-21",
+            "intensive_care": 831
+        },
+        {
+            "date": "2021-04-22",
+            "intensive_care": 822
+        },
+        {
+            "date": "2021-04-23",
+            "intensive_care": 819
+        },
+        {
+            "date": "2021-04-24",
+            "intensive_care": 797
+        },
+        {
+            "date": "2021-04-25",
+            "intensive_care": 816
+        },
+        {
+            "date": "2021-04-26",
+            "intensive_care": 811
+        },
+        {
+            "date": "2021-04-27",
+            "intensive_care": 813
+        },
+        {
+            "date": "2021-04-28",
+            "intensive_care": 805
+        },
+        {
+            "date": "2021-04-29",
+            "intensive_care": 817
+        },
+        {
+            "date": "2021-04-30",
+            "intensive_care": 802
+        },
+        {
+            "date": "2021-05-01",
+            "intensive_care": 811
+        },
+        {
+            "date": "2021-05-03",
+            "intensive_care": 797
+        },
+        {
+            "date": "2021-05-04",
+            "intensive_care": 783
+        },
+        {
+            "date": "2021-05-05",
+            "intensive_care": 765
+        },
+        {
+            "date": "2021-05-06",
+            "intensive_care": 754
+        },
+        {
+            "date": "2021-05-07",
+            "intensive_care": 749
+        },
+        {
+            "date": "2021-05-08",
+            "intensive_care": 737
+        },
+        {
+            "date": "2021-05-09",
+            "intensive_care": 728
+        },
+        {
+            "date": "2021-05-10",
+            "intensive_care": 732
+        },
+        {
+            "date": "2021-05-11",
+            "intensive_care": 732
+        },
+        {
+            "date": "2021-05-12",
+            "intensive_care": 707
+        },
+        {
+            "date": "2021-05-13",
+            "intensive_care": 683
+        },
+        {
+            "date": "2021-05-14",
+            "intensive_care": 677
+        },
+        {
+            "date": "2021-05-15",
+            "intensive_care": 661
+        },
+        {
+            "date": "2021-05-16",
+            "intensive_care": 656
+        },
+        {
+            "date": "2021-05-17",
+            "intensive_care": 647
+        },
+        {
+            "date": "2021-05-18",
+            "intensive_care": 639
+        },
+        {
+            "date": "2021-05-19",
+            "intensive_care": 642
+        },
+        {
+            "date": "2021-05-20",
+            "intensive_care": 626
+        },
+        {
+            "date": "2021-05-21",
+            "intensive_care": 617
+        },
+        {
+            "date": "2021-05-22",
+            "intensive_care": 586
+        },
+        {
+            "date": "2021-05-23",
+            "intensive_care": 569
+        },
+        {
+            "date": "2021-05-24",
+            "intensive_care": 563
+        },
+        {
+            "date": "2021-05-25",
+            "intensive_care": 556
+        },
+        {
+            "date": "2021-05-26",
+            "intensive_care": 547
+        },
+        {
+            "date": "2021-05-27",
+            "intensive_care": 540
+        },
+        {
+            "date": "2021-05-28",
+            "intensive_care": 521
+        },
+        {
+            "date": "2021-05-29",
+            "intensive_care": 510
+        },
+        {
+            "date": "2021-05-30",
+            "intensive_care": 497
+        },
+        {
+            "date": "2021-05-31",
+            "intensive_care": 481
+        },
+        {
+            "date": "2021-06-01",
+            "intensive_care": 482
+        },
+        {
+            "date": "2021-06-02",
+            "intensive_care": 486
+        },
+        {
+            "date": "2021-06-03",
+            "intensive_care": 476
+        },
+        {
+            "date": "2021-06-04",
+            "intensive_care": 445
+        },
+        {
+            "date": "2021-06-05",
+            "intensive_care": 416
+        },
+        {
+            "date": "2021-06-06",
+            "intensive_care": 398
+        },
+        {
+            "date": "2021-06-07",
+            "intensive_care": 392
+        },
+        {
+            "date": "2021-06-08",
+            "intensive_care": 381
+        },
+        {
+            "date": "2021-06-09",
+            "intensive_care": 381
+        },
+        {
+            "date": "2021-06-10",
+            "intensive_care": 376
+        },
+        {
+            "date": "2021-06-11",
+            "intensive_care": 375
+        },
+        {
+            "date": "2021-06-12",
+            "intensive_care": 360
+        },
+        {
+            "date": "2021-06-13",
+            "intensive_care": 358
+        },
+        {
+            "date": "2021-06-14",
+            "intensive_care": 353
+        },
+        {
+            "date": "2021-06-15",
+            "intensive_care": 343
+        },
+        {
+            "date": "2021-06-16",
+            "intensive_care": 330
+        },
+        {
+            "date": "2021-06-17",
+            "intensive_care": 321
+        },
+        {
+            "date": "2021-06-18",
+            "intensive_care": 307
+        },
+        {
+            "date": "2021-06-19",
+            "intensive_care": 301
+        },
+        {
+            "date": "2021-06-20",
+            "intensive_care": 296
+        },
+        {
+            "date": "2021-06-21",
+            "intensive_care": 283
+        },
+        {
+            "date": "2021-06-22",
+            "intensive_care": 277
+        },
+        {
+            "date": "2021-06-23",
+            "intensive_care": 271
+        },
+        {
+            "date": "2021-06-24",
+            "intensive_care": 256
+        },
+        {
+            "date": "2021-06-25",
+            "intensive_care": 239
+        },
+        {
+            "date": "2021-06-26",
+            "intensive_care": 238
+        },
+        {
+            "date": "2021-06-27",
+            "intensive_care": 231
+        },
+        {
+            "date": "2021-06-28",
+            "intensive_care": 215
+        },
+        {
+            "date": "2021-06-29",
+            "intensive_care": 204
+        },
+        {
+            "date": "2021-06-30",
+            "intensive_care": 196
+        },
+        {
+            "date": "2021-07-01",
+            "intensive_care": 189
+        },
+        {
+            "date": "2021-07-02",
+            "intensive_care": 186
+        },
+        {
+            "date": "2021-07-03",
+            "intensive_care": 177
+        },
+        {
+            "date": "2021-07-04",
+            "intensive_care": 177
+        },
+        {
+            "date": "2021-07-05",
+            "intensive_care": 173
+        },
+        {
+            "date": "2021-07-06",
+            "intensive_care": 168
+        },
+        {
+            "date": "2021-07-07",
+            "intensive_care": 159
+        },
+        {
+            "date": "2021-07-08",
+            "intensive_care": 153
+        },
+        {
+            "date": "2021-07-09",
+            "intensive_care": 141
+        },
+        {
+            "date": "2021-07-10",
+            "intensive_care": 142
+        },
+        {
+            "date": "2021-07-11",
+            "intensive_care": 142
+        },
+        {
+            "date": "2021-07-12",
+            "intensive_care": 139
+        },
+        {
+            "date": "2021-07-13",
+            "intensive_care": 133
+        },
+        {
+            "date": "2021-07-14",
+            "intensive_care": 135
+        },
+        {
+            "date": "2021-07-15",
+            "intensive_care": 132
+        },
+        {
+            "date": "2021-07-16",
+            "intensive_care": 123
+        },
+        {
+            "date": "2021-07-17",
+            "intensive_care": 124
+        },
+        {
+            "date": "2021-07-18",
+            "intensive_care": 123
+        },
+        {
+            "date": "2021-07-19",
+            "intensive_care": 123
+        },
+        {
+            "date": "2021-07-20",
+            "intensive_care": 121
+        },
+        {
+            "date": "2021-07-21",
+            "intensive_care": 125
+        },
+        {
+            "date": "2021-07-22",
+            "intensive_care": 126
+        },
+        {
+            "date": "2021-07-23",
+            "intensive_care": 130
         }
     ]
 }

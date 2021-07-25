@@ -39,7 +39,6 @@ def initialize_data_scheduler():
          schedule.run_pending()
          time.sleep(1)
 
-
 if __name__ == "__main__":
     update_data()
     if(data_scheduler_enabled):
